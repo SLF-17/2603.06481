@@ -1,1 +1,1 @@
-# 2603.06481
+# Code generated for arXiv:2603.06481
